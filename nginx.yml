@@ -1,6 +1,6 @@
 #nginx.yml
 ---
- - hosts: 192.168.0.107
+ - hosts: 192.168.0.108
    user: root
    tasks:
     - name: Install Nginx
